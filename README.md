@@ -1,4 +1,4 @@
-# Hoffman-Algorithm
+# Huffman-Algorithm
 Implementation of the Hoffman Algorithm with a binary tree, used to cipher a plaintext recovered from a binary file. It also containts the decipher process.
 
 -----Cipher Process-----
